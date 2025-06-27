@@ -154,7 +154,7 @@ Enhanced input processing and augmentation significantly improved results.
 
 * **Dataset**: [SOCOFing – Kaggle](https://www.kaggle.com/datasets/ruizgara/socofing)
 * **Base model**: torchvision.models.resnet18
-* **Developed by**: \[Your Name Here]
+* **Developed by**: Yogendhra & Naga Abilash
 
 ---
 
